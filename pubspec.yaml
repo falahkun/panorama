@@ -9,7 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_cube: ^0.1.1
+  flutter_cube:
+    git:
+      url: https://github.com/WafikSleim/flutter_cube.git
   motion_sensors: ^0.1.0
 
 dev_dependencies:

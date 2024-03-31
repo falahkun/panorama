@@ -65,10 +65,11 @@ packages:
   flutter_cube:
     dependency: transitive
     description:
-      name: flutter_cube
-      sha256: "71cf679a251166eb97f86751c56582b09abdbf859485fbf60524948813914c3b"
-      url: "https://pub.flutter-io.cn"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "8544b01d6db35b7dd607b828da3fc49986fca42c"
+      url: "https://github.com/WafikSleim/flutter_cube.git"
+    source: git
     version: "0.1.1"
   flutter_plugin_android_lifecycle:
     dependency: transitive
@@ -198,7 +199,7 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "0.4.1"
+    version: "0.4.2"
   path:
     dependency: transitive
     description:
