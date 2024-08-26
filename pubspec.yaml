@@ -12,7 +12,8 @@ dependencies:
   flutter_cube:
     git:
       url: https://github.com/WafikSleim/flutter_cube.git
-  motion_sensors: ^0.1.0
+  motion_sensors: 
+    git: https://github.com/zesage/motion_sensors.git
 
 dev_dependencies:
   flutter_test:
